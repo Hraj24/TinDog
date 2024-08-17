@@ -9,7 +9,7 @@ TinDog is a responsive web application designed as a fun, fictional dating platf
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Customization](#customization)
-- [License](#license)
+
 
 ## Project Structure
 
